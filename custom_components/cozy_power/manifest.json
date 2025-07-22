@@ -1,0 +1,9 @@
+{
+  "domain": "cozy_power",
+  "name": "Cozy Power",
+  "version": "1.0.0",
+  "documentation": "",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@giarewin"]
+}
