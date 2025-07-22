@@ -1,10 +1,9 @@
 {
   "name": "Cozy Power",
-  "content_in_root": false,
-  "domains": ["sensor"],
-  "homeassistant": "2023.0.0",
-  "country": "VN",
-  "render_readme": true,
-  "filename": "cozy_power",
-  "persistent_directory": "custom_components/cozy_power"
+    "render_readme": true,
+    "domain": "cozy_power",
+    "documentation": "https://github.com/giarewin/cozy_power",
+    "issue_tracker": "https://github.com/giarewin/cozy_power/issues",
+    "content_in_root": false,
+    "homeassistant": "2025.1.0"
 }
