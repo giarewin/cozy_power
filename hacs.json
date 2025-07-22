@@ -1,0 +1,10 @@
+{
+  "name": "Cozy Power",
+  "content_in_root": false,
+  "domains": ["sensor"],
+  "homeassistant": "2023.0.0",
+  "country": "VN",
+  "render_readme": true,
+  "filename": "cozy_power",
+  "persistent_directory": "custom_components/cozy_power"
+}
